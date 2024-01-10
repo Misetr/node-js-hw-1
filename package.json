@@ -1,0 +1,13 @@
+{
+  "name": "js-hw-1",
+  "version": "1.0.0",
+  "description": "js-hw-1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
